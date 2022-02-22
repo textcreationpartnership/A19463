@@ -1,0 +1,157 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Miracle vpon miracle. Or A true relation of the great floods which happened in Couentry, in Lynne, and other places, on the 16. and 17. dayes of Aprill last past, in this present yeare of our Lord God, 1607</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1607</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 16 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A19463</idno>
+            <idno type="STC">STC 5884.5</idno>
+            <idno type="STC">ESTC S105627</idno>
+            <idno type="EEBO-CITATION">99841354</idno>
+            <idno type="PROQUEST">99841354</idno>
+            <idno type="VID">5931</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A19463)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 5931)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 1658:12)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Miracle vpon miracle. Or A true relation of the great floods which happened in Couentry, in Lynne, and other places, on the 16. and 17. dayes of Aprill last past, in this present yeare of our Lord God, 1607</title>
+               </titleStmt>
+               <extent>[2], 12, [2] p.   </extent>
+               <publicationStmt>
+                  <publisher>[By G. Eld] for Nathanael Fosbrook. and Iohn Wright,</publisher>
+                  <pubPlace>Printed at London :</pubPlace>
+                  <date>1607.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>With a title-page woodcut.</note>
+                  <note>Printer's name from STC.</note>
+                  <note>The last leaf is blank.</note>
+                  <note>Reproduction of the original at the Henry E. Huntington Library and Art Gallery.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Floods --  England --  Early works to 1800.</term>
+               <term>Great Britain --  History --  James I, 1603-1625 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-04</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-04</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:5931:1" rendition="simple:additions"/>
+            <p>MIRACLE vpon MIRACLE. Or A true Relation of the great Floods <hi>which happened in Couentry, in</hi> Lynne, and other places, on the 16. and 17. dayes of Aprill laſt paſt, in this <hi>pre<g ref="char:EOLhyphen"/>ſent yeare of our Lord God,</hi> 1607.</p>
+            <figure/>
+            <p>Printed at London for <hi>Nathanael-Foſbrook.</hi> and <hi>Iohn Wright.</hi> 1607.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:5931:2"/>
+            <pb n="1" facs="tcp:5931:2"/>
+            <head>A true Relation of the great Floodes which happened in Couentry in the Countye of Warwicke. In Lynne in the County of Norfolke. In Stopworth in the <hi>County of Cheſter, and in Sheppy, and other</hi> pla<g ref="char:EOLhyphen"/>ces in the County of Kent, all which happe<g ref="char:EOLhyphen"/>ned on the 16 and 17. dayes of Aprill laſt paſt in this preſent yeare of our Lord God. 1607.</head>
+            <p>
+               <seg rend="decorInit">W</seg>Hen I enter into the conſideration of the aptneſſe &amp; gree<g ref="char:EOLhyphen"/>dineſſe of our Nati<g ref="char:EOLhyphen"/>on (and not onelie of them, but almoſt of all people what<g ref="char:EOLhyphen"/>ſoeuer) both to en<g ref="char:EOLhyphen"/>tertaine and euen with a violent beliefe, to embrace the report of any Miracle whatſoeuer, howe euer deliuered from the mouthes or pennes of vaine Impo<g ref="char:EOLhyphen"/>ſtres,
+<pb n="2" facs="tcp:5931:3"/>or the moſt vntrue ſpeakers, with<g ref="char:EOLhyphen"/>out eyther examination of the groſſe<g ref="char:EOLhyphen"/>neſſe, or reſpect of the malicious or fan<g ref="char:EOLhyphen"/>taſticall inuentors, nay albeit it bee e<g ref="char:EOLhyphen"/>uen repugnant to holy Scriptures, I cannot chuſe but admire at their want of faith, eſpecially in theſe dayes, wher<g ref="char:EOLhyphen"/>in truth was neuer (ſince the dayes of the Apoſtles) more truely publiſhed, and yet ſuch is our naturall blindneſſe, or our willfull Ignorance that if we iour<g ref="char:EOLhyphen"/>ney neuer ſo ſafely in the perfect path of ſaluation yet we will bee drawne aſtray with the vaineſt &amp; lighteſt report either of prodigious monſter or falſe miracle, witneſſe <hi>Garnets</hi> ſtraw, being an imagi<g ref="char:EOLhyphen"/>nation and a report as falſe as Sathan himſelfe who is the Author of all falſe<g ref="char:EOLhyphen"/>hood &amp; yet it is harboured in the hearts and mouthes of many ſimple ſeduced people, witnes the Iewes Propheſie, being an idle, vaine Pamphlet, as groſſe and groſſer then <hi>Iohn</hi> of <hi>Calabria,</hi> and was printed many years agoe, and this laſt yeare onely renewed with the addi<g ref="char:EOLhyphen"/>tion of <hi>1607.</hi> yet amongſt fooles, women &amp; children, retayned for ſuch an appro<g ref="char:EOLhyphen"/>ued miracle that as if the gift of prophe<g ref="char:EOLhyphen"/>ſie were hereditary to the Iewes &amp; their
+<pb n="3" facs="tcp:5931:3"/>tribes, there are fewe things better be<g ref="char:EOLhyphen"/>leeued when as in truth there was ne<g ref="char:EOLhyphen"/>uer any ſuch Iew, nor any ſuch propheſie but a meere inuention, witnes <hi>Haoker,</hi> that would be no leſſe then Chriſt, &amp; ma<g ref="char:EOLhyphen"/>ny other ſuch like, all which being moſt abſurd, &amp; moſt improbable. And yet that in theſe latter dayes, the man of ſin ſhal bring in falſe prophets, falſe propheſies, falſe miracles, &amp; falſe deceiuers, it is moſt plaine in many places of holy Scripture &amp; therefore if ſuch falſhods be the ſignes of a falſe Church, and a falſe religion, then queſtionles the Church of <hi>Rome</hi> hath no aliance with truth, ſince in her theſe euills are daily nouriſht &amp; ingen<g ref="char:EOLhyphen"/>dred almoſt howerly beguiling and in<g ref="char:EOLhyphen"/>chanting the people with the caſting out off Diuells, and other vaine and falſe miracles, there may be <hi>Miranda multa,</hi> &amp; yet indeed <hi>miracula nulla,</hi> many wonders as in the Sun, Moone Starrs, and fir<g ref="char:EOLhyphen"/>mament, many wonders in the earth, in the ayre, and in the waters, ſome as fore<g ref="char:EOLhyphen"/>runners of the laſt day, ſome as forwar<g ref="char:EOLhyphen"/>ning vs of the euills which hang ouer vs and ſome as puniſhments of our ſins and of theſe wonders, the waters haue this yeare brought forth y<hi rend="sup">e</hi> ſtrangeſt that
+<pb n="4" facs="tcp:5931:4"/>hath beene read of eyther in this age or any age ſince the generall flood which hath gone before it: as namely that which in the latter end of Ianuary laſt, hapned in So<g ref="char:cmbAbbrStroke">̄</g>merſet ſhire, &amp; other parts of the Weſt-countries, the lamentable report whereof, hath already beene pub<g ref="char:EOLhyphen"/>liſhed and hath almoſt <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ld euery eare both with pitty and wonder, ſo many ſoules periſhing, ſo much goodes and Cattell conſumed, &amp; ſo many Townes-houſes and good buyldings ouer-whell, med, that the conſideration thereof is a<g ref="char:EOLhyphen"/>ble to moue remorſe and aſtoniſhment in men of the moſt bloody and barbourous natures, euen ſuch as <hi>Vergill</hi> writs of the <hi>Mirmidons,</hi> or <hi>Homer</hi> of the <hi>Thraſians</hi> that being as it were, he wed out off ſtint &amp; moued with no cruelty, yet wept at the deſtruction of <hi>Troy,</hi> albeit themſelues were the greateſt actors in that hugh maſſacre: like ſoft hearted executioners that feele a touch of that affliction, with which the afflicte onely, but this firſt outrage of waters, proceeding from the great deepe, I meane the Sea, albe at, the firſt it apeared moſt fearefull &amp; won<g ref="char:EOLhyphen"/>drous, and that the effects thereof were
+<pb n="5" facs="tcp:5931:4"/>both moſt lamentable and at firſt beyond all bound of imagination, ſome not ſo ſtrangely periſhing, as others more ſtrangely preſerued (the true relation wherof is to bee read at pleaſure) yet af<g ref="char:EOLhyphen"/>ter the dayes of ſorrow were paſt ouer &amp; that the finiſhing of nine dayes had fini<g ref="char:EOLhyphen"/>ſhed the reme<g ref="char:cmbAbbrStroke">̄</g>brance of the wonder, im<g ref="char:EOLhyphen"/>mediatly almoſt euery one could collect vnto himſelfe a naturall cauſe and a pro<g ref="char:EOLhyphen"/>ſcript &amp; conſtant reaſon both how, why, and which way this inundation was effected: as one while the violence of the windes holding backe the ſpringe tides that they wold not haue their free courſe according to their diſpoſitions, made that two tides ioyning in one and com<g ref="char:EOLhyphen"/>ming both with a double power and quantity, it muſt of neceſſity follow that they muſt riſe to a double height &amp; haue double boundes wherein to be contay<g ref="char:EOLhyphen"/>ned, which not being found there would not chuſe but followe this moſt ſodaine fearefull, and vnexpected Ouer-flow: others imagined, that the furie of the winds driuing the waters before them and rayſing as it were a double quanti<g ref="char:EOLhyphen"/>ty made the ſpring tides double their ac<g ref="char:EOLhyphen"/>cuſtomed greatneſſe, and ſo ouerflowing
+<pb n="4" facs="tcp:5931:5"/>their bankes to dround all within the compaſſe of that leuell. thus men forget<g ref="char:EOLhyphen"/>ting the powreful hand of the Almighty, &amp; turning the wallet of their ſins behind their backes, began to imagine like<g ref="char:cmbAbbrStroke">̄</g> natu<g ref="char:EOLhyphen"/>rall men, that ſith there was a naturall reaſon for theſe natural cauſes ſure they were not puniſhments for our tranſgreſ<g ref="char:EOLhyphen"/>ſions, neyther had God in his diſplea<g ref="char:EOLhyphen"/>ſure, or for our amendment laid this ge<g ref="char:cmbAbbrStroke">̄</g>
+               <g ref="char:EOLhyphen"/>tle affliction vpon vs, but queſtionleſſe they were deceiued, as may appeare eui<g ref="char:EOLhyphen"/>dently by the ſequell of this relation: For in <hi>Couentry</hi> a Citty ſeated in <hi>Warwick</hi>-ſhire vpon the mount of a ſmall hill, be<g ref="char:EOLhyphen"/>ing not neare any part of the Sea or falt-water by many ſcores of miles, nei<g ref="char:EOLhyphen"/>ther where there is any ebding or flow<g ref="char:EOLhyphen"/>ing, neyther any freſh Riuer of any quantity, more then ſuch as a man may at any reaſonable time of the yeare, ey<g ref="char:EOLhyphen"/>ther leape or ſtride ouer, this Citty being euer accounted a very drie Citty as wan<g ref="char:EOLhyphen"/>ting water eyther for traffick, or to beare a veſſell of burden. In this Citty vppon Thurſeday at night beeing the <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>6. of A<g ref="char:EOLhyphen"/>prill the dores of heauen beeing opened there fell a great raine, mixed with thun<g ref="char:EOLhyphen"/>der &amp; lightning, to the amazement of the
+<pb n="7" facs="tcp:5931:5"/>Cittizens, I do not meane ſuch an amaze<g ref="char:EOLhyphen"/>ment as draue them either to feare or deſpair but ſuch an amazement as doth common<g ref="char:EOLhyphen"/>ly follow and depend vpon thunder &amp; light<g ref="char:EOLhyphen"/>ning which are the dartes and arrowes of the higheſt: this raine, this thunder &amp; light<g ref="char:EOLhyphen"/>ning co<g ref="char:cmbAbbrStroke">̄</g>tinued the moſt part of all that night euen in the greateſt extremity that could be imagined, the heauens as it were euen o<g ref="char:EOLhyphen"/>pening and ſpreading the lightning abroad like acurtaine, and making the darkenes of the night as bright as day, for the moment it laſted, and the thunder roaring ſo loud, that it broke the wearieſt Laborer from his ſleepe and recreation: about morning the thunder ceaſſed and the rayne not falling ſo thicke as before, was then no more but an ordinarye drizling, ſo that the Plow-man betooke him to the field, the Laborer to his worke, and the Artificer to his occupation not any whatſo<g ref="char:EOLhyphen"/>euer eyther fearing or ſeeing any cauſe to feare eyther extraordinary or ordinary flood or inundation, now about eyght of the clock this morning beeing Fryday the <hi>17.</hi> of Aprill, according to the vſual cuſtome of that religi<g ref="char:EOLhyphen"/>ous Cittye, the Cittizens repayred to the Church to heare a Lecture, which is vſually preache deuery Friday throughout the whole yeare, and when they went from their hou<g ref="char:EOLhyphen"/>ſes, the left them drye neither ſawe they any
+<pb n="8" facs="tcp:5931:6"/>cauſe of ſuſpition why they ſhould not ſo continue, but when they returned backe fro<g ref="char:cmbAbbrStroke">̄</g> the Lecture, they found all the lower partes of the Citty ouer-flown, with a moſt ſtrange and wonderfull floode, ſuch a one as no age, memory or record hath euer knowne in that place fro<g ref="char:cmbAbbrStroke">̄</g> y<hi rend="sup">e</hi> firſt beginning: the waters being riſen within the Cittye in the ſpace of three quarters of an howre, better then nine foote high, ſo that their houſes ſtoode like little I<g ref="char:EOLhyphen"/>landes about which the water beat and ſee<g ref="char:EOLhyphen"/>med to contend with all violence, much hurt there was done of houſhold goodes, many ſellers of ſalte, corne and other commodities ſpoyled, but vnto the high praiſe of the great God of heauen not any man, woman, or child nor any other liuing creature, that was of a<g ref="char:EOLhyphen"/>ny valuable eſtimation periſhed in the wa<g ref="char:EOLhyphen"/>ters, onely the affliction of their mindes, who being the owners of thoſe houſes ſawe this fearefull combate betwixt their goodes and this mercileſſe enemy, howe farre they were tranſported with agonie, feare and deſperat<g ref="char:EOLhyphen"/>neſſe none can truely iudge or write of, but ſuch as haue felt &amp; known the like or a grea<g ref="char:EOLhyphen"/>ter extremity, for in theſe ſodain and miſera<g ref="char:EOLhyphen"/>ble diſaſters, there is euer a diuers and furi<g ref="char:EOLhyphen"/>ous combate of many paſſions and many afflictions.</p>
+            <p>This water after it was growne to his full
+<pb n="9" facs="tcp:5931:6"/>height and ſtrength, it ſo continued as in a ſtay for the ſpace of three howers, giuing me<g ref="char:cmbAbbrStroke">̄</g> leaue as it were to behold his dreadfulnes, and to tremble at the work of the higheſt, and after the three howrs were expired, it ſodain<g ref="char:EOLhyphen"/>ly vaniſhed away beyond all expectation ma<g ref="char:EOLhyphen"/>king his comming in, &amp; his going forth of e<g ref="char:EOLhyphen"/>quall wonder, the ſtay of the Flood being al<g ref="char:EOLhyphen"/>moſt three times ſo long, as both his increaſe and falling, his increaſing, abyding &amp; decay<g ref="char:EOLhyphen"/>ing beeing in all little aboue foure howers, yet his extraordinary depth full nine foote by meaſure, &amp; his boundes many miles in com<g ref="char:EOLhyphen"/>pas, a wonder more then euer hath bin read of, and an examplary puniſhment ſo great &amp; ſo mercifull that it is worthy the recording to all after ages, for it came onely to affright and forwarne, not to afflict or confound: For firſt no liuing ſoule hath periſhed, no cattell are deſtroyed, no houſes are ouer-whelmed, and for the loſſe of priuate goodes and com<g ref="char:EOLhyphen"/>modities, it is ſuppoſed that the valew of <hi>200.</hi> markes, will make a full reſtitution and yet neuer came Flood more ſodaine, neuer was water in ſhewe more cruell: nor euer were men more ſecure, or leſſe ſuſpitious of ſo vn<g ref="char:EOLhyphen"/>lookt for a danger, but the hand of the Lord is vpon his ſeruants, and hee will chaſtice thoſe which offend, and haue mercy where he pleaſeth.</p>
+            <p>
+               <pb n="10" facs="tcp:5931:7"/>
+About <hi>19.</hi> yeares agene when the ſame Gentleman which now is Maior of the Cit<g ref="char:EOLhyphen"/>ty of <hi>Couentry</hi> was then Maior, it is repor<g ref="char:EOLhyphen"/>ted there was then a very ſtrange flood and ſo great a Water, that the amazement and rumour therof ran through the whole King<g ref="char:EOLhyphen"/>dome, but ſuch as ſaw both this and that for<g ref="char:EOLhyphen"/>mer affirme, that the flood which fel <hi>19</hi> years agoe beeing co<g ref="char:cmbAbbrStroke">̄</g>pared with this that fell nowe was but a ſmall puddle to a great Sea: from which I gather that as our ſins do increaſe, ſo theſe ſignes and warnings for the amend<g ref="char:EOLhyphen"/>ment of our faltes are likewiſe both multi<g ref="char:EOLhyphen"/>plyed and redoubled, and wee that will not put on Sack-cloth and aſhes at the crye and preaching, not of one <hi>Ionas,</hi> but of many mil<g ref="char:EOLhyphen"/>lions muſt eyther be warned by theſe won<g ref="char:EOLhyphen"/>ders, or elſe looke for moſt ſodayne deſtructio<g ref="char:cmbAbbrStroke">̄</g>.</p>
+            <p>In the weeke before Eaſter laſt paſt in this preſent yeare of our Lord God <hi>1607.</hi> the Sea forcing a breach through the banke a little from <hi>Lynne,</hi>
+               <note place="margin">Floodes at Lynne.</note> came flowing in with ſuch a furious ſpring tide, that it drowned vp a great part of the Towne together with the marſhes and groundes thereunto adioyning and ſo paſſing like an inuincible hoſt, along the Sea coaſt, it ouer-flowed to the number of almoſt a dozen Townes and Villages; on<g ref="char:EOLhyphen"/>ly the people with great difficulty, and by the fore-warning of the former flood which hap<g ref="char:EOLhyphen"/>ned
+<pb n="11" facs="tcp:5931:7"/>the <hi>20.</hi> of Ianuary, eſcapt with ſafety of their liues, but moſt of their cattell were loſt and all their corne and graine conſumed.</p>
+            <p>
+               <note place="margin">Flood at Boſton.</note>The like to this the ſame weeke before Ea<g ref="char:EOLhyphen"/>ſter laſt happened at <hi>Boſton</hi> where the Sea brake in aboue the hauen and drowned a great part of the Towne euen almoſt to the great-Croſſe, and if the vigilancy and indu<g ref="char:EOLhyphen"/>ſtry of the Countrey and the Commanders thereof had not exceeded both hope and ex<g ref="char:EOLhyphen"/>pectation, it was fear'd that a great part of that Towne and countrey would haue been within the hazard of bure couerable euill, ſo mighty was the breach, and ſo extreame the ſwelling of the ſea.</p>
+            <p>
+               <note place="margin">Flood in Kent.</note>The ſame weeke before Eaſter, the Sea brake in vpon the Ile of <hi>Sheppe,</hi> and drowned the moſt part of all thoſe grounds, and if the vigilance and wildome of one priuate Gen<g ref="char:EOLhyphen"/>tleman had not preuented the fury of the wa<g ref="char:EOLhyphen"/>ters, it had borne away many thouſandes of ſheepe and many hundreds of great cattle, but praiſe bee giuen to our great God, they were preſerued for the benefit of this nation, only ſome fewe were loſt, which fewe it is hoped will bee no occaſion of dearth or enſu<g ref="char:EOLhyphen"/>ing ſcarcitie, at the ſame time that this Ile of <hi>Sheppy</hi> was thus drown'd, the Riuer of Thames breaking ouer her bankes drowned a great part of all thoſe Mariſhes and lowe
+<pb n="12" facs="tcp:5931:8"/>grounds which border vppon her, wherein many cattel were loſt, and an infinit deale of good graſſe made vtterly vnfit for this years ſeruice.</p>
+            <p>Laſtly &amp; which of all was moſt ſtrange and miraculous at the Towne of <hi>Stopworth</hi> vp<g ref="char:EOLhyphen"/>on the edge of <hi>Cheſ-ſhre,</hi>
+               <note place="margin">Flood at Stop<g ref="char:EOLhyphen"/>worth.</note> through which there paſſeth a riuer from thence down to <hi>Waring<g ref="char:EOLhyphen"/>ton,</hi> vpon a nights caine in the weeke before Eaſter laſt the water riſſe &amp; ouerflowed both ſome part of the towne, &amp; al the plaines that were adioyning, a thing neuer till that time beheld by any man, and as diuers men dwel<g ref="char:EOLhyphen"/>ling about thoſe parts, and which were eye<g ref="char:EOLhyphen"/>beholders of the inundation haue reported, that the riuer for many howres together ſee<g ref="char:EOLhyphen"/>med to be carried againſt his courſe, euen to<g ref="char:EOLhyphen"/>wards the head and vpper part of the riuer a thing both ſtrange, vnreaſonable and vn<g ref="char:EOLhyphen"/>naturall, from which we may gather many obſeruations for our ſoules health, as the teſtimonies of Gods great power, the mar<g ref="char:EOLhyphen"/>quable ſignes of his mercies and the true touch and feeling of our owne ſinnes which touch breeding in vs remorce and penance &amp; that pennance a ſatiſfaction for our ſin? and a deteſtation of our ſinnes no doubt but wee ſhall haue the threatning of Gods wreath re<g ref="char:EOLhyphen"/>moued and be the inioyers of the bliſſe of his Kingdome.</p>
+            <pb facs="tcp:5931:8"/>
+         </div>
+      </body>
+   </text>
+</TEI>
